@@ -1,0 +1,19 @@
+body
+{
+
+	margin:0px;
+	padding:0px;
+}
+.maintable
+{
+	width:600px;
+	margin:0 auto;
+	background:#cccccc;
+	border:0px;
+}
+.maininnertable
+{
+	background:#ffffff;
+	width:100%;
+	border:0px;
+}

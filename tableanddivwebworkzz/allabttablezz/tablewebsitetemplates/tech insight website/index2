@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="Generator" content="EditPlus®">
+<meta name="Author" content="">
+<meta name="Keywords" content="">
+<meta name="Description" content="">
+<title>Document</title>
+<link rel="stylesheet" type="text/css" href="css/style.css"/>
+</head>
+<body>
+<table cellspacing="1" cellpadding="1" border="1px solid black" align="center" width="500">
+	<tr>
+		<td>
+			<table cellspacing="0" cellpadding="0" border="1">
+
+				<tr><!--HEADER-->
+					<td><h1>header</h1></td>
+				</tr>
+
+				<tr><!--body-->
+					<td></td>
+                </tr>
+
+                <tr>
+                	<td><h3>footer</h3></td>
+                </tr>
+
+			</table>
+
+		</td>
+	</tr>
+</table>
+</body>
+</html>

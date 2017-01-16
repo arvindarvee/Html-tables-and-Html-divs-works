@@ -1,0 +1,110 @@
+/*******************reset css style*******************
+**********************************************************/
+body{
+	margin:0px;
+	padding:0px;
+	font-family:arial,verdana,helvetica;
+	color:grey;
+}
+
+/*******************css style*******************
+**********************************************************/
+
+#main{
+	width:900px;
+	margin:0px auto;
+	overflow:hidden;
+}
+
+
+/*******************header css style*******************
+**********************************************************/
+
+.header{       
+	background-color:black;     
+	height:60px;
+	border:1px solid black;
+}
+
+.header img{
+	float:left;
+	margin:10px 0px 0px 10px;
+	
+}
+.anchor{
+	margin-left:460px;
+}
+.anchor a{
+	padding:30px 30px 30px 0px;
+	display:inline-block;
+	color:#ffffff;
+	text-decoration:none;
+	border:1px solid white;
+
+}
+.anchor a:hover{
+	color:red;
+}
+/*******************banner css style*******************
+**********************************************************/
+
+#banner img{
+	background-color:blue;
+	width:100%;
+	height:400px;
+}
+/*******************below banner css style*******************
+**********************************************************/
+
+.perfect-left{
+	float:left;
+	width:430px;
+	overflow:hidden;
+	height:300px;
+
+}
+.perfect-right{
+	height:300px;
+}
+.perfect-right img{
+	float:right;
+	width:430px;
+	
+}
+#para{
+height:200px;
+
+}
+#three{
+	height:300px;
+	background-color:black;
+	padding:10px;
+	}
+.same-width{
+	width:30%;
+	float:left;
+	overflow:hidden;
+	margin:5px;
+	height:300px;
+	text-align:justify;
+
+}
+.same-width img{
+  		width:100%;
+}
+.clear{
+	float:left;
+}
+#text-left{
+	width:30%;
+
+}
+#footer{
+	background-color:brown;
+	height:30px;
+	text-align:center;
+	color:white;
+	width:900px;
+	margin:0 auto;
+	
+}

@@ -1,0 +1,137 @@
+
+/*************************reset css************
+****************************************************************/
+body{
+	margin:0px;
+	padding:0px;
+	font-family:arial,verdana,helvetica;
+	font-size:14px;
+	line-height:20px;
+}
+
+
+
+/*************************header And banner css part************
+****************************************************************/
+
+.container{
+	width:1200px;
+	margin:0px auto;
+}
+.header{
+	padding:30px;
+}
+.header img{
+	margin-left:60px;
+}
+.nav{
+	float:right;
+	font-weight:600;
+	margin-top:-20px;
+	margin-left:410px;
+	color:#2ea1a7;	
+}
+.nav a{	
+	margin-top:-10px;
+	display:inline-block;
+	padding-right:45px;
+	text-decoration:none;
+	color:#5d7575;
+}
+.nav a:first-child{
+	color:#df684a;
+}
+.nav a:hover{
+	color:#df684a;
+}
+.clear{
+	clear:both;
+}
+
+/*************************main content css part************
+****************************************************************/
+.headings{
+	text-align:center;
+	color:#4c7780;
+	padding-top:16px;
+}
+.headings h3{
+	font-weight:lighter;
+	margin-top:-14px;
+}
+
+.headings h2{
+	font-size:28px;
+}
+
+.gallery{
+	background-color:#f6f6f6;
+	height:310px;
+	margin-top:40px;
+}
+.gallery-container{
+	width:1120px;
+	margin:0px auto;
+}
+.gallery-1{
+	text-align:center;
+	width:278px;
+	border-right:1px solid #ccc;
+	float:left;
+	padding-top:54px;
+}
+.gallery-2{
+	text-align:center;
+	width:278px;
+	border-right:1px solid #ccc;
+	float:left;
+	padding-top:54px;
+
+}
+.gallery-3{
+	text-align:center;
+	width:278px;
+	border-right:1px solid #ccc;
+	float:left;
+	padding-top:54px;
+
+}
+.gallery-4{
+	text-align:center;
+	width:278px;
+	float:left;
+	padding-top:54px;
+
+}
+.small-box{
+	background-color:#637f83;
+	width:80px;
+	border-radius:6px;
+	margin-left:100px;
+}
+.small-box h4{
+	padding:10px;
+	color:#fff;
+}
+.same-width{
+	width:70px;
+	height:60px;
+	padding-left:100px;
+
+}
+
+
+
+
+.footer{
+	background-color:#627f83;
+	text-align:center;
+	padding:10px;
+	color:#fff;
+	margin-top:30px;
+	
+}
+.footer h3{
+	font-weight:lighter;
+}
+

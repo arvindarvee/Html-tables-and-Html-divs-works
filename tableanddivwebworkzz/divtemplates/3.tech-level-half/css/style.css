@@ -1,0 +1,112 @@
+/************************reset css****************
+************************************************/
+body{
+	margin:0px;
+	padding:0px;
+	line-height:18px;
+	
+}
+.container{
+	width:600px;
+	margin:0px auto;
+	border:3px solid #ccc;
+}
+.header{
+	text-align:center;
+	padding:30px 0px 30px 0px;
+}
+.banner{
+	text-align:center;
+}
+
+.content-area{
+	padding:20px 20px 30px 20px;
+}
+.left-content{
+	width:260px;
+	float:left;
+}
+.left-content h1{
+	font-size:18px;
+	font-family:arial,verdana,helvetivca;
+	color:#0a4380;
+}
+.left-content span{
+	font-family:arial,verdana,helvetica;
+	font-size:14px;
+	font-weight:200;
+}
+.left-content h3{
+	font-size:16px;
+	font-family:arial,verdana,helvetivca;
+	color:#0a4380;
+	margin-top:-8px;
+}
+.left-content p{
+	font-size:12px;
+	font-family:arial,verdana,helvetivca;
+	margin-top: -10px;
+}
+
+.clear{
+	clear:both;
+}
+.right-content{
+	float:right;
+	width:260px;
+}
+.right-content h1{
+	font-size:18px;
+	font-family:arial,verdana,helvetivca;
+	color:#0a4380;
+}
+.right-content p{
+	font-size:12px;
+	font-family:arial,verdana,helvetivca;
+}
+
+
+.releaseimage{
+	text-align:center;
+}
+
+
+
+
+.left-section{
+	width:260px;
+	float:left;
+	
+}
+.left-section h2{
+	font-size:18px;
+	font-family:arial,verdana,helvetivca;
+	color:#000;
+}
+.left-section h3{
+	font-size:14px;
+	font-family:arial,verdana,helvetivca;
+	color:#424380;
+}
+.right-section{
+	width:260px;
+	float:right;     	
+}
+.right-section h2{
+	font-size:18px;
+	font-family:arial,verdana,helvetivca;
+	color:#000;
+}
+.right-section h3{
+	font-size:14px;
+	font-family:arial,verdana,helvetivca;
+	color:#424380;
+}
+.footer{
+	text-align:center;
+	top:35px;
+	position:relative;
+	left:-13px;
+
+}
+

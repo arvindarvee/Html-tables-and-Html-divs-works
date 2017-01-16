@@ -1,0 +1,25 @@
+body{
+	margin:0px;
+	padding:0px;
+}
+.div1{
+	border:2px solid black;
+}
+.float1{
+	float:left;
+	width:40%;
+	border:1px solid yellow;
+}
+.float2{
+	float:left;
+	width:30%;
+	border:1px solid black;
+}
+.clear{
+	clear:both;
+}
+span.clear
+{
+	clear:both;
+	display:block;
+}

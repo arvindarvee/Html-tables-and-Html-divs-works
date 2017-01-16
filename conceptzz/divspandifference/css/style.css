@@ -1,0 +1,14 @@
+body{
+    margin:0px;
+    padding:0px;
+}
+.div1{
+border:1px solid black;
+padding:10px;
+}
+.span1{
+border:1px solid black;
+padding:10px;
+display:inline-block;
+width:100px;
+}

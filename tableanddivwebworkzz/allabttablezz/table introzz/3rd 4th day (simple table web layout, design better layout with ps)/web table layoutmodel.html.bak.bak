@@ -1,0 +1,84 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="Generator" content="EditPlus®">
+<meta name="Author" content="">
+<meta name="Keywords" content="">
+<meta name="Description" content="">
+<title>Document</title>
+</head>
+<body>
+<table cellspacing="0" cellpadding="0" border="1" width="600" align="center">
+	<tr>
+		<td height="200" align="center" bgcolor="#cccccc"><font style="font-family:arial,verdana,helvetica; font-size:40px; font-weight:normal; color:blue;">Header</font></td>
+	</tr>
+	<tr>
+		<td><table cellspacing="0" cellpadding="0" border="1" width="100%">
+        <tr>
+			<td width="35"></td>
+			<td><table cellspacing="0" cellpadding="0" border="1" width="100%">
+            <tr>
+				<td align="center"><font style="font-family:arial,verdana,helvetica; font-size:13px; font-weight:normal; color:#000;">Welcome</font></td>
+			</tr>
+            <tr>
+				<td height="200" valign="top"><font style="font-family:arial,verdana,helvetica; font-size:13px; font-weight:normal; color:#000;">it is also called a mark statement ofthe set of students in class roomit is also called a mark statement ofthe set of students in class roomit is also called a mark statement ofthe set of students in class roomit is also called a mark statement ofthe set of students in class roomit is also called a mark statement ofthe set of students in class roomit is also called a mark statement ofthe set of students in class room</font></td>
+			</tr>
+            <tr>
+				<td height="20"></td>
+			</tr>
+            <tr>
+				<td><table cellspacing="0" cellpadding="0" border="1" width="100%">
+
+
+                <tr>
+					<td><font style="font-family:arial,verdana,helvetica; font-size:13px; font-weight:normal; color:#000;">s.no </font></td>
+					<td><font style="font-family:arial,verdana,helvetica; font-size:13px; font-weight:normal; color:#000;">mark1</font></td>
+					<td><font style="font-family:arial,verdana,helvetica; font-size:13px; font-weight:normal; color:#000;">mark2</font></td>
+					<td><font style="font-family:arial,verdana,helvetica; font-size:13px; font-weight:normal; color:#000;">mark3</font></td>
+					<td><font style="font-family:arial,verdana,helvetica; font-size:13px; font-weight:normal; color:#000;">mark4</font></td>
+				</tr>
+                <tr>
+					<td><font style="font-family:arial,verdana,helvetica; font-size:13px; font-weight:normal; color:#000;">1</font></td>
+					<td><font style="font-family:arial,verdana,helvetica; font-size:13px; font-weight:normal; color:#000;">2</font></td>
+					<td><font style="font-family:arial,verdana,helvetica; font-size:13px; font-weight:normal; color:#000;">3</font></td>
+					<td><font style="font-family:arial,verdana,helvetica; font-size:13px; font-weight:normal; color:#000;">4</font></td>
+					<td><font style="font-family:arial,verdana,helvetica; font-size:13px; font-weight:normal; color:#000;">5</font></td>
+				</tr>
+                <tr>
+					<td><font style="font-family:arial,verdana,helvetica; font-size:13px; font-weight:normal; color:#000;">1</font></td>
+					<td><font style="font-family:arial,verdana,helvetica; font-size:13px; font-weight:normal; color:#000;">2</font></td>
+					<td><font style="font-family:arial,verdana,helvetica; font-size:13px; font-weight:normal; color:#000;">3</font></td>
+					<td><font style="font-family:arial,verdana,helvetica; font-size:13px; font-weight:normal; color:#000;">4</font></td>
+					<td><font style="font-family:arial,verdana,helvetica; font-size:13px; font-weight:normal; color:#000;">5</font></td>
+				</tr>
+                <tr>
+					<td><font style="font-family:arial,verdana,helvetica; font-size:13px; font-weight:normal; color:#000;">1</font></td>
+					<td><font style="font-family:arial,verdana,helvetica; font-size:13px; font-weight:normal; color:#000;">2</font></td>
+					<td><font style="font-family:arial,verdana,helvetica; font-size:13px; font-weight:normal; color:#000;">3</font></td>
+					<td><font style="font-family:arial,verdana,helvetica; font-size:13px; font-weight:normal; color:#000;">4</font></td>
+					<td><font style="font-family:arial,verdana,helvetica; font-size:13px; font-weight:normal; color:#000;">5</font></td>
+				</tr>
+                <tr>
+					<td><font style="font-family:arial,verdana,helvetica; font-size:13px; font-weight:normal; color:#000;">1</font></td>
+					<td><font style="font-family:arial,verdana,helvetica; font-size:13px; font-weight:normal; color:#000;">2</font></td>
+					<td><font style="font-family:arial,verdana,helvetica; font-size:13px; font-weight:normal; color:#000;">3</font></td>
+					<td><font style="font-family:arial,verdana,helvetica; font-size:13px; font-weight:normal; color:#000;">4</font></td>
+					<td><font style="font-family:arial,verdana,helvetica; font-size:13px; font-weight:normal; color:#000;">5</font></td>
+				</tr>
+				</table></td>
+			</tr>
+            <tr>
+				<td height="20"></td>
+			</tr>
+			</table></td>
+			<td width="35">1</td>
+		</tr>
+		</table></td>
+	</tr>
+	<tr>
+		<td height="50" align="center"><font style="font-family:arial,verdana,helvetica; font-size:13px; font-weight:normal; color:#000;">Footer</font></td>
+	</tr>
+</table>
+</body>
+</html>

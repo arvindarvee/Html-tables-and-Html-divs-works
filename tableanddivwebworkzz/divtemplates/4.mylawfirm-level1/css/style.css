@@ -1,0 +1,161 @@
+
+/*************************reset css************
+****************************************************************/
+body{
+	margin:0px;
+	padding:0px;
+	background-color:black;
+	font-family:arial,verdana,helvetica;
+	background:url('../img/background-image.jpg') repeat;
+}
+
+/*************************haedernav css************
+****************************************************************/
+
+
+.container{
+	width:1200px;
+	margin:0px auto;
+	
+}
+.header{
+	padding:45px 0px 45px 0px;
+
+}
+.nav{
+	float:left;
+	margin-top:-36px;
+	font-family:arial,verdana,helvetica;
+	font-size:14px;
+	font-weight:700;
+	margin-left:565px;
+}
+.nav a{
+	font:16px;
+	color:#ffffff;
+	display:inline-block;
+	padding-right:40px;
+	text-decoration:none;
+
+}
+.nav a:hover{
+	opacity:0.7;
+}
+.clear{
+	clear:both;
+}
+.below-nav{
+	background-color:#4e9422;
+	margin-bottom:30px;	
+}
+.below-nav a{
+	display:inline-block;
+	padding-top:20px;
+	padding-bottom:20px;
+	padding-right:40px;
+	color:#ffffff;
+	font-size:14px;
+	text-decoration:none;
+}
+.below-nav a:first-child{
+	padding-left:120px;
+}
+.below-nav a:hover{
+	color:#ccc;
+}
+/*************************hero image css************
+****************************************************************/
+.hero-container{
+	width:1200px;
+	margin:0px auto;
+}
+.empty{
+	height:320px;
+	border-radius:10px;
+	background-color:#ffffff;
+	text-align:center;
+	padding:10px 20px 10px 20px;
+	margin-bottom:30px;
+}
+.empty img{
+	height:320px;
+	width:100%;
+}
+
+.gallery{
+	background-color:white;
+	height:370px;
+	padding-left:110px;
+	padding-right:20px;
+
+}
+.gallery-container{
+	width:1200px;
+	margin:0px auto;
+	padding-top:40px;
+	padding-bottom:50px;
+
+}
+.gallery-floats{
+	float:left;
+	margin-right:34px;
+}
+.gallery-image{
+	border:1px solid #ccc;
+	padding:10px;
+	width:230px;
+	text-align:center;	
+}
+.para{
+	width:230px;
+	text-align:left;
+	font-family:arial,verdana,helvetica;
+	font-weight:600;
+	opacity:0.8;
+	line-height:22px;
+	font-size:15px;
+
+}
+
+
+.footer{
+	padding-top:20px;
+	padding-bottom:20px;
+	background-color:#111111;
+}
+.ftr-leftbox{
+	color:#ffffff;
+	width:220px;
+	height:40px;
+	background:url('../img/arrows.png') no-repeat #434343 10px 10px;
+	border-radius:8px;
+	padding-left:40px;
+	
+}
+.ftr-leftbox h5{
+	padding-top:10px;
+
+
+}
+.ftr-rightbox{
+	float:right;
+	color:#bcbbbb;
+	margin-top:-60px;
+	opacity:0.8;
+}
+
+.last-footer{
+	height:10px;
+	width:100%;	
+	background-color:#000000;
+}
+
+
+
+
+
+
+
+
+
+
